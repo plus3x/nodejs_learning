@@ -1,0 +1,19 @@
+{
+  "name": "expressjs_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./server/app.js",
+  "scripts": {
+    "start": "node ./server/app.js",
+    "test": "mocha"
+  },
+  "author": "Vladislav Petrov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.16.2"
+  },
+  "devDependencies": {
+    "mocha": "~5.0.0",
+    "supertest": "~3.0.0"
+  }
+}

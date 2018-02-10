@@ -1,0 +1,8 @@
+# Node packages
+node_modules
+
+# logs
+*.log
+
+# Temprory files
+tmp
